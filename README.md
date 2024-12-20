@@ -1,4 +1,4 @@
-We are performing cluster analyis on dataset: :Wholseale customers data
+We are performing cluster analysis on dataset: :Wholsale customers data
 
 #3 methods used are:
 
@@ -16,3 +16,5 @@ structure called a dendrogram.
 
 It is a density-based algorithm that iteratively shifts each data point toward the densest 
 region of data, effectively "shifting" points toward cluster centers.
+
+Detailed preprocessing has been done and the resuls have beeen compiled into a analysis report with graphs
